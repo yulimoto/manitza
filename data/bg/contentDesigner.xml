@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- projectId must be one word: for Example "AgnusDay", "Agnus", "ADay", "aday" and so on, but not "agnus day" 
+and must be unique
+ -->
+<root>
+	<mainMenu>
+
+		<projects>
+		
+			<project id="jiadeorganic" name="Опаковки за козметична серия">
+				<thumb  name="Jiade Organic" src="images/thumbs/01-project-thumb.jpg" />
+				<images name="">
+					<image name="imageName01" src="images/images/01-a.jpg"/>
+					<image name="imageName01" src="images/images/01-b.jpg"/>
+					<image name="imageName01" src="images/images/01-c.jpg"/>
+				</images>
+				<info><![CDATA[В тези опаковки на изключително натурални козметични кремове за лице рисунката играе основна роля, тя изразява уникалността на продукта. Черният фон създава връзка между кутията и съдържанието – черните флакони - и придава усещане за лукс. Беше истинско удоволствие да създадем първите опаковки на Jiade!]]></info>
+				<client><![CDATA[Jiade Organic Cosmetics – Ванкувър, Канада]]></client>
+			</project>
+			
+			<project id="violaorganic" name="Опаковки за билкови ароматни торбички">
+				<thumb name="Viola Series" src="images/thumbs/02-project-thumb.jpg" />
+				<images name="">
+					<image name="" src="images/images/02-a.jpg"/>
+					<image name="" src="images/images/02-b.jpg"/>
+					<image name="" src="images/images/02-c.jpg"/>
+					<image name="" src="images/images/02-d.jpg"/>
+					<image name="" src="images/images/02-e.jpg"/>
+				</images>
+				<info><![CDATA[Функционални кутии с оригинален отвор, който разкрива красив детайл от самия продукт. Изборът на материал и леките рисунки допринасят за усещането за ръчна изработка, история и домашен уют. ]]></info>
+				<client><![CDATA[Виола Органик – Велики Преслав, България]]></client>
+			</project>
+				<project id="refan-toilet-water" name="Серия етикети за тоалетна вода">
+					<thumb name="" src="images/thumbs/03-project-thumb.jpg" />
+					<images name="">
+						<image name="" src="images/images/03-a.jpg"/>
+						<image name="" src="images/images/03-b.jpg"/>
+						<image name="" src="images/images/03-c.jpg"/>
+					</images>
+					<info><![CDATA[Ярки цветове и лека рисунка върху малки метални флакони – чист аромат от природата за младите градски хора.]]></info>
+					<client><![CDATA[Рефан – Пловдив, България ]]></client>
+				</project>
+				
+				<project id="logos" name="Галерия от фирмени знаци">
+					<thumb name="" src="images/thumbs/04-project-thumb.jpg" />
+					<images name="">
+						<image name="" src="images/images/04-a.jpg"/>
+						<image name="" src="images/images/04-b.jpg"/>
+						<image name="" src="images/images/04-c.jpg"/>
+						<image name="" src="images/images/04-d.jpg"/>
+						<image name="" src="images/images/04-e.jpg"/>
+					</images>
+					<info><![CDATA[]]></info>
+					<client><![CDATA[]]></client>
+				</project>
+				
+				
+				<project id="sisakiss" name="Рекламни материали за малък сладкарски бизнес">
+					<thumb name="" src="images/thumbs/05-project-thumb.jpg" />
+					<images name="">
+						<image name="" src="images/images/05-a.jpg"/>
+						<image name="" src="images/images/05-b.jpg"/>
+					</images>
+					<info><![CDATA[Сладкишите на Анастасия, освен че са изключитерно красиви, даряват с чиста радост, затова тя избра да има на визитката си торта, нарисувана сякаш от дете...]]></info>
+					<client><![CDATA[Анастасия Кисимова]]></client>
+				</project>
+				
+				
+				<project id="buisnesscards" name="Визитки и каталози">
+					<thumb name="" src="images/thumbs/06-project-thumb.jpg" />
+					<images name="">
+						<image name="" src="images/images/06-a.jpg"/>
+						<image name="" src="images/images/06-b.jpg"/>
+						<image name="" src="images/images/06-c.jpg"/>
+						<image name="" src="images/images/06-d.jpg"/>
+						<image name="" src="images/images/06-e.jpg"/>
+						<image name="" src="images/images/06-f.jpg"/>
+						<image name="" src="images/images/06-g.jpg"/>
+					</images>
+					<info></info>
+					<client></client>
+				</project>	
+				
+				<project id="posters" name="Плакати">
+					<thumb name="" src="images/thumbs/07-project-thumb.jpg" />
+					<images name="">
+						<image name="" src="images/images/07-a.jpg"/>
+						<image name="" src="images/images/07-b.jpg"/>
+						<image name="" src="images/images/07-c.jpg"/>
+						<image name="" src="images/images/07-d.jpg"/>
+						<image name="" src="images/images/07-e.jpg"/>
+						<image name="" src="images/images/07-f.jpg"/>	
+						<image name="" src="images/images/07-g.jpg"/>
+						<image name="" src="images/images/07-h.jpg"/>
+					</images>
+					<info><![CDATA[Това е една колекция от разнообразни постери: рекламни и промоционални, плакати за танцови и театрални постановки. В изработването на плаката сякаш имаме най-голяма свобода да вплетем художествените си търсения с рекламната функция.]]></info>
+					<client><![CDATA[Танцова компания Фрида<br>
+					Лили Виденова, режисьор <br>
+					Jiade organic Cosmetics]]></client>
+				</project>	
+			
+				<project id="calendars" name="Календари">
+					<thumb name="" src="images/thumbs/08-project-thumb.jpg" />
+					<images name="">
+						<image name="" src="images/images/08-a.jpg"/>
+						<image name="" src="images/images/08-b.jpg"/>
+						<image name="" src="images/images/08-c.jpg"/>
+						<image name="" src="images/images/08-d.jpg"/>
+						<image name="" src="images/images/08-e.jpg"/>
+						<image name="" src="images/images/08-f.jpg"/>
+						<image name="" src="images/images/08-g.jpg"/>
+						<image name="" src="images/images/08-h.jpg"/>
+					</images>
+					<info><![CDATA[Стенни и настолни календари – нека отмятаме времето с красиви картини, които, освен че носят наслада за окото, утвърждават и успехите ни.]]></info>
+					<client></client>
+				</project>
+			
+		</projects>
+		
+		
+		
+		
+		<contacts>
+			<contact network="Адрес"><![CDATA[МАНИЦА ЕООД<br>4000 Пловдив<br>Ул. Княз Александър I № 4<br>]]></contact>
+			<contact network="Телефон">+032 63 86 24</contact>
+			<contact network="Eмайл"><![CDATA[<a href="mailto:designstudio@manitza.com">designstudio@manitza.com</a><br><br>]]></contact>
+		</contacts>
+
+		<friends>
+			<friend site="http://www.studio-lemon.com" picture="img.jpg">Студио Лемон</friend>
+			<friend site="http://lightonlightoff.blogspot.com/" picture="img.jpg">Лайт он</friend>
+			<friend site="http://www.punkt.bg/" picture="img.jpg">Пункт</friend>
+			<friend site="http://www.2x2.bg/" picture="img.jpg">2х2</friend>
+			<friend site="http://www.tafkov.com/" picture="img.jpg">Печатница Тафков</friend>
+			<friend site="http://www.zebrastyle.com/" picture="img.jpg">Зебра</friend>
+			<friend site="http://www.stim-center.com/" picture="img.jpg">Стим Център</friend>
+			<friend site="http://mosaic.bg/" picture="img.jpg">Мозаик трейнинг</friend>
+			<friend site="http://viola.bg/index.php" picture="img.jpg">Виола</friend>
+			<friend site="http://www.refan.net/" picture="img.jpg">Рефан</friend>
+			<friend site="http://www.jiadecosmetics.com/" picture="img.jpg">Джиаде Органик Козметикс</friend>
+		</friends>
+
+		<about>
+			<bio><![CDATA[ Маница ЕООД е създадена през 2008 г. в гр. Пловдив. Част от основните ни дейности са дизайн на опаковки, графичен дизайн и печатна реклама. 
+<br/><br/>
+			Стремим се да удовлетворим нуждите на нашите клиенти като създаваме естетически издържани продукти. Нашите проекти са както функционални и комуникативни, така и оригинални и красиви. В работата си се чувстваме отговорни да допринасяме за красотата и хармонията в ежедневието ни, да възпитаваме добър вкус. 
+<br/><br/>
+			Дизайнер на Маница е Елена Калпакчиева, дипломиран художник с над 6 години опит в областта на графичния дизайн. Освен работата й надизайнер, нейни картини може да видите тук:
+			<a href="http://www.flickr.com/photos/78064372@N00/sets/72157606448052578/" target="_blank">flickr</a>
+			<br><br>
+	
+			]]>
+			</bio>
+		</about>
+	</mainMenu>
+</root>

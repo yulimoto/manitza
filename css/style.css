@@ -1,0 +1,92 @@
+body{ background-color:#ded3c3; font-family:"Trebuchet MS"; }
+
+.hide { display : none ;}
+.show { display : block;}
+.markMenu{ color : #7ac8c8; }
+.unmarkMenu { color:#222222; }
+
+
+img{border:none;}
+
+
+h1{ 
+	padding: 0px 0 0 0;
+	margin-top:20px;
+    overflow: hidden;
+    background-repeat: no-repeat;
+    height: 140px !important;
+    height /**/:100px;
+	text-indent: -3333px;
+}
+h2{display:none;}
+
+#main {padding:0px 0 0 10% ; max-width:1000px;min-height:650px; display:none; }
+#content{}
+#header{}
+
+
+#logoContainer{ }
+#logo {cursor:pointer;padding:0;}
+#founder{}
+#jobs{}
+
+
+#mainMenu ul  { position:relative; width:100%; padding:30px 0 72px 0px; margin : 0px ;   list-style: none; z-index:100;}
+#mainMenu ul li {cursor:pointer; float:left; letter-spacing:1px; padding-right: 38px;font-family:'Trebuchet MS', serif; font-size: 18pt; color:#444; }
+
+
+
+#projectsAllSt{
+	max-width : 1000px; 
+}
+
+.project_feed_thumb { float:left; width:210px;height:250px; margin:0px 10px 40px 0; padding:10px; background-color:#fff;  }
+.project_feed_thumb .hover .thumb_title .text, .project_feed_thumb.hover .thumb_title .text { color:#ccc; padding:1px 2px 1px 2px; text-decoration:none; }
+.thumb_tag .text a { background-color:#fff; text-decoration:none; font-size: 10px; display:none; }
+.thumb_info .text {    }
+.thumb_title { width:210px; overflow:hidden;}
+.thumb_title .text{  }
+
+.nohover{text-decoration:none;}
+
+.nohover .thumbBorder{border :solid 4px #eee; }
+.thumbBorderHover{ border :solid 4px #bfddd9;}
+
+
+.thumbsHolder{position:relative;}
+
+#projectSt{width:870px;height:850px;display:none;}
+.project_view{display:block;}
+.projectMeta .text{ color:#777; font-size:11pt; line-height:120%;   }
+.projectMeta{ width: 200px; height:430px; padding:10px; background-color:#fff;float:left; margin-right:10px;}
+.nextPrev{ position:relative;margin:-20px 45px 0 0 ; z-index:100; float:left; display:block;}
+.imageHolder{display:block;}
+.numbersViewed { color:#7ac8c8;}
+.numbersUnviewed{color:#555;}
+.pImg{ position:relative; height:440px;  border:solid 5px #fff;cursor:pointer;}
+.loader_holder { position:relative; padding-top:30px;display:none;}
+
+
+#prev{ cursor:pointer;display:block;  }
+#next{cursor:pointer; display:block; }
+#numbers a{text-decoration:none; }
+
+#contactsSt{ width:330px; display:none;}
+#contactsSt { background-color:#fff; padding:20px; }
+
+#aboutSt { width:330px;margin-bottom:100px;display:none; }
+#aboutSt{ background-color:#fff; padding:20px; }
+#aboutSt .text {font-size: 11pt; color:#222;}
+
+
+
+
+
+
+.roundedCorners{
+	-moz-border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -khtml-border-radius: 20px;
+    border-radius: 20px;
+}
+

@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- projectId must be one word: for Example "AgnusDay", "Agnus", "ADay", "aday" and so on, but not "agnus day" 
+and must be unique
+ -->
+<root>
+	<mainMenu>
+
+		<projects>
+		
+			<project id="jiadeorganic" name="Verpackungen für eine Kosmetikserie">
+				<thumb  name="Jiade Organic" src="images/thumbs/01-project-thumb.jpg" />
+				<images name="">
+					<image name="imageName01" src="images/images/01-a.jpg"/>
+					<image name="imageName01" src="images/images/01-b.jpg"/>
+					<image name="imageName01" src="images/images/01-c.jpg"/>
+				</images>
+				<info><![CDATA[In diesen Verpackungen für
+				äußerst echte Kosmetikcremen spielt die Zeichnung eine wichtige Rolle, sie stellt die Einzigartigkeit des Produktes dar. Der schwarze Hintergrund schafft eine Verbindung zwischen der Verpackung und ihrem Inhalt - die schwarzen Flakons - und
+				verleiht ihr ein Luxusempfinden.]]></info>
+				<client><![CDATA[Jiade Organic Cosmetics – Vancoover, Canada]]></client>
+			</project>
+			
+			<project id="violaorganic" name="Verpackungen für duftige Krautbeutel">
+				<thumb name="Viola Series" src="images/thumbs/02-project-thumb.jpg" />
+				<images name="">
+					<image name="" src="images/images/02-a.jpg"/>
+					<image name="" src="images/images/02-b.jpg"/>
+					<image name="" src="images/images/02-c.jpg"/>
+					<image name="" src="images/images/02-d.jpg"/>
+					<image name="" src="images/images/02-e.jpg"/>
+				</images>
+				<info><![CDATA[Funktionsreiche Verpackungen mit einer originellen Öffnung, wo ein schönes Detail vom Produkt zu sehen ist.]]></info>
+				<client><![CDATA[Viola Organic – Veliki Preslav, Bulgarien]]></client>
+			</project>
+				<project id="refan-toilet-water" name="Etikettserie für Toilettenwasser">
+					<thumb name="" src="images/thumbs/03-project-thumb.jpg" />
+					<images name="">
+						<image name="" src="images/images/03-a.jpg"/>
+						<image name="" src="images/images/03-b.jpg"/>
+						<image name="" src="images/images/03-c.jpg"/>
+					</images>
+					<info><![CDATA[Grelle Farben und eine leichte Zeichnung über kleine Metallfläschchen – eine echte Duftaus der Natur für junge Stadtleute.]]></info>
+					<client><![CDATA[Refan – Plovdiv, Bulgarien]]></client>
+				</project>
+				
+				<project id="logos" name="Galerie von Firmenzeichen">
+					<thumb name="" src="images/thumbs/04-project-thumb.jpg" />
+					<images name="">
+						<image name="" src="images/images/04-a.jpg"/>
+						<image name="" src="images/images/04-b.jpg"/>
+						<image name="" src="images/images/04-c.jpg"/>
+						<image name="" src="images/images/04-d.jpg"/>
+						<image name="" src="images/images/04-e.jpg"/>
+					</images>
+					<info><![CDATA[]]></info>
+					<client><![CDATA[]]></client>
+				</project>
+				
+				
+				<project id="sisakiss" name="Werbungsmaterialien für ein kleines Konditoreibusiness">
+					<thumb name="" src="images/thumbs/05-project-thumb.jpg" />
+					<images name="">
+						<image name="" src="images/images/05-a.jpg"/>
+						<image name="" src="images/images/05-b.jpg"/>
+					</images>
+					<info><![CDATA[Die Süßigkeiten von Anastasia sind nicht nur äusserst hübsch, sondern beschenken den Genießer mit echter Freude. Deswegen hat sie auf ihrer Visitenkarte eine Torte, die als ob von einem Kind gemalt ist.]]></info>
+					<client><![CDATA[Anastasia Kisimova]]></client>
+				</project>
+				
+				
+				<project id="buisnesscards" name="Visitenkarten und Kataloge">
+					<thumb name="" src="images/thumbs/06-project-thumb.jpg" />
+					<images name="">
+						<image name="" src="images/images/06-a.jpg"/>
+						<image name="" src="images/images/06-b.jpg"/>
+						<image name="" src="images/images/06-c.jpg"/>
+						<image name="" src="images/images/06-d.jpg"/>
+						<image name="" src="images/images/06-e.jpg"/>
+						<image name="" src="images/images/06-f.jpg"/>
+						<image name="" src="images/images/06-g.jpg"/>
+					</images>
+					<info><![CDATA[Eine Galerie von Visitenkarten und Katalogen von verschiedenen Menschen und Businessies. Wir streben uns immer nach einer individuellen Behandlung jedes einzelnen Projektes. Im Disign stellen wir das Wichtigste für den Kunden dar, indem wir es mit einer hohen Qualität ausführen.]]></info>
+					<client></client>
+				</project>	
+				
+				<project id="posters" name="Poster">
+					<thumb name="" src="images/thumbs/07-project-thumb.jpg" />
+					<images name="">
+						<image name="" src="images/images/07-a.jpg"/>
+						<image name="" src="images/images/07-b.jpg"/>
+						<image name="" src="images/images/07-c.jpg"/>
+						<image name="" src="images/images/07-d.jpg"/>
+						<image name="" src="images/images/07-e.jpg"/>
+						<image name="" src="images/images/07-f.jpg"/>	
+						<image name="" src="images/images/07-g.jpg"/>
+						<image name="" src="images/images/07-h.jpg"/>
+						<image name="" src="images/images/07-i.jpg"/>
+					</images>
+					<info><![CDATA[Das ist eine Sammlung von eigenartigen Postern – Werbungs-und Promotionspostern, von Postern über Tanz-und Theateraufführungen. Bei der Ausführung des Posters hätten wir ja die grösste Freiheit unsere Kunstsuche mit der Werbungsfunktion zusammenzuflechten.]]></info>
+					<client><![CDATA[Frida Dance Company,<br>
+					Lili Videnova – theater director, <br>
+					Jiade organic Cosmetics<br>]]></client>
+				</project>	
+			
+				<project id="calendars" name="Kalender">
+					<thumb name="" src="images/thumbs/08-project-thumb.jpg" />
+					<images name="">
+						<image name="" src="images/images/08-a.jpg"/>
+						<image name="" src="images/images/08-b.jpg"/>
+						<image name="" src="images/images/08-c.jpg"/>
+						<image name="" src="images/images/08-d.jpg"/>
+						<image name="" src="images/images/08-e.jpg"/>
+						<image name="" src="images/images/08-f.jpg"/>
+						<image name="" src="images/images/08-g.jpg"/>
+						<image name="" src="images/images/08-h.jpg"/>
+					</images>
+					<info><![CDATA[Wand- und Tischkalender – Messen wir die Zeit durch schöne Bilder ab, die nicht nur dem Auge Genuß bringt, sondern auch bestätigt unseren Erfolg.]]></info>
+					<client></client>
+				</project>
+			
+		</projects>
+		
+		
+		
+		
+		<contacts>
+			<contact network="Address:"><![CDATA[MANITZA<br>Knjas Alexander I Str. 4, <br>BG-4000 Plovdiv<br>]]></contact>
+			<contact network="tel.: "><![CDATA[+359 32 63 86 24<br>]]></contact>
+			<contact network="email:"><![CDATA[<a href="mailto:designstudio@manitza.com">designstudio@manitza.com</a>]]></contact>
+			
+		</contacts>
+
+		<friends>
+			<friend site="http://www.studio-lemon.com" picture="img.jpg">Studio Lemon</friend>
+			<friend site="http://lightonlightoff.blogspot.com/" picture="img.jpg">Light On</friend>
+			<friend site="http://www.punkt.bg/" picture="img.jpg">Punkt</friend>
+			<friend site="http://www.2x2.bg/" picture="img.jpg">2х2</friend>
+			<friend site="http://www.tafkov.com/" picture="img.jpg">Tafkov Printing House</friend>
+			<friend site="http://www.zebrastyle.com/" picture="img.jpg">Zebra</friend>
+			<friend site="http://www.stim-center.com/" picture="img.jpg">Stim Center</friend>
+			<friend site="http://mosaic.bg/" picture="img.jpg">Mosaic Training</friend>
+			<friend site="http://viola.bg/index.php" picture="img.jpg">Viola</friend>
+			<friend site="http://www.refan.net/" picture="img.jpg">Refan</friend>
+			<friend site="http://www.jiadecosmetics.com/" picture="img.jpg">Jiade Organic Cosemtics</friend>
+		</friends>
+
+		<about>
+			<bio><![CDATA[Firma  MANITZA ist 2008 in Plovdiv eröffnet.  Ein Teil unserer Grundtätigkeiten sind Verpackungsdisign, Graphikdisign und Druckwerbung.
+<br/><br/>
+			Wir streben uns die Bedürfnisse unserer Kunden zu befriedigen, indem wir ästhetisch ausgeführte  Produkte herstellen. Unsere Projekte sind  sowohl  wie funktionsreich und kommunikationsfäig, als auch originell und eigenartig. In unserer Arbeit sind wir veranwortungvoll zu unseren Kunden und tragen zur Schönheit und Charmonie im Alltag bei.
+<br/><br/>
+			Disigner der Firma MANITZA ist Elena Kalpaktschieva, Dipl. Maler mit über 6 Dienstjahren im Bereich des Grafikdisigns. Außer ihrer Arbeit als Disigner Gemälde von ihr können Sie hier finden:
+				<a href="http://www.flickr.com/photos/78064372@N00/sets/72157606448052578/" target="_blank">flickr</a>
+				<br><br>
+			
+				]]>
+			</bio>
+		</about>
+	</mainMenu>
+</root>

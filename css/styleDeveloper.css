@@ -1,0 +1,84 @@
+body{ background-color: #eee;font-family: Trebuchet MS; font-size: 11pt; color:#444; padding:0px;}
+
+.hide { display : none ;}
+.show { display : block;}
+img{border:solid 5px #eee;}
+a{cursor:pointer;}
+h1{
+	padding: 0px 0 0 0;
+	margin-top:20px;
+	overflow: hidden;
+	background-repeat: no-repeat;
+	background-image : url('../images/assets/header_bg.png');
+	height: 140px !important;
+	height /**/:100px;
+	text-indent: -3333px; }
+h2{ font-size: 22pt; letter-spacing:-1px;line-height:100%; color:#999;display:inline;}
+
+
+#main {max-width:690px;display:block;padding:0px 0 0 10px;margin: 15px 15px 15px 15% ; display:none; }
+#content{ position:relative; width:100%; margin-top:0px;  display:block;}
+#header{position:relative;}
+
+
+#logoContainer{ width:100%; }
+#logo {cursor:pointer;}
+#kalpakchieva{color:#222;}
+#jobs{color:#444;}
+
+
+#mainMenu ul  { position:relative; width:100%; padding:0px 0 50px 0; margin:0px; margin-top:40px;  list-style: none; z-index:100;display:block;color:#444;}
+#mainMenu ul li {cursor:pointer; float:left; padding-right: 50px; font-size: 14pt; color:#444; }
+
+
+
+#projectsAllSt{ position:absolute;float:left; width:110%; margin-left: 0px; display:block; clear:both; padding-bottom:150px;}
+
+
+	.project_feed_thumb { float:left; width:230px;height:150px; margin:0 0px 0 0; padding:10px 10px 0px 0px; }
+	.projectWrapper{padding-right:30px;}
+	.thumb_tag .text a { background-color:#fff; text-decoration:none; font-size: 10px; display:none; }
+	.thumb_info .text {    }
+	.thumb_title { font-family:"Cuprum",serif;  position:relative; top :40px; text-align:center;display:none;  width:210px;}
+	.thumb_title .text{ font-size: 15pt; letter-spacing: 1px ; color:#000; padding:5px;}
+	
+	.nohover{text-decoration:none;}
+	.nohover img {border:none;}
+	.thumbsHolder{position:absolute;}
+	.hoverThumb{position:absolute;}
+	.normalThumb{position:absolute;}
+
+	.thumbBorder{border :solid 5px #eee; }
+	.thumbBorderHover{ border :solid 5px #7accc7;}
+
+.loader_holder {position:relative; display : none ;  }
+.loader_holder img { border:solid 0px #fff; margin:10px 0 0 10px;}
+
+
+#aboutSt{ position:relative;float:left; width:95%;margin-bottom:100px; padding: 10px 5px 0px 0px; z-index:50; display:none; }
+
+#aboutSt .aboutView {max-width:100%; float:left;margin:0 0 50px 0 ;}
+.metadataLabel {color:#777; font-weight: bold;}
+.text{line-height:20px;}
+#aboutSt #contactsAndFriends{ padding-left:0px; padding-top:30px;}
+#contactsAndFriends #contactsField {margin-bottom:60px; }
+#contactsAndFriends #friendsField {text-align:left; padding-top:30px;}
+#aboutSt .friendsText {}
+
+#aboutSt .site{ text-align:left;}
+#aboutSt .site a{ text-decoration:underline; color:#666; text-align:left;  }
+
+
+#projectSt{ position:relative; margin:0px 0 0px 0; max-width: 100%;  }
+#projectSt .projectMeta{ position:relative; width:100%; display:block; }
+#projectSt .label{font-size:12pt;}
+#projectSt .text{}
+
+
+img.pImg{ position:relative;width:100%; margin-top: 20px; padding-bottom:100px; border-width:0px;}
+
+#projectSt .nextPrev  {position:absolute; right:10px;float:right;  margin-top:0px;padding-bottom:10px; }
+#projectSt .nextPrev a{cursor:default;text-decoration:none; cursor:pointer;}
+#numbers {z-index:30000;}
+.numbersViewed {  color:#7cccc7;}
+.numbersUnviewed{ color:#999;}

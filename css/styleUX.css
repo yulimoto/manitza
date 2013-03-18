@@ -1,0 +1,64 @@
+body{ position:absolute; width:100%; min-width:1000px;  height:100%;  padding:0; margin:0; font-family:'Cuprum',serif; font-size: 11pt; color:#444; overflow:hidden; background-color:#fff;  }
+
+h1{ font-size: 25pt; margin-top:30px; font-weight:bold; }
+h2{ font-family:'Cuprum',serif; font-size: 11pt; color:#666; font-weight:normal;}
+h3{ font-size: 18pt; height:20px; font-weight : bold ; padding-bottom : 30px;}
+
+
+#main{ position:relative;display:none; padding-left:10px; height:100%; border-left:solid 10px #eee; }
+#header{ position:relative;float:left; max-width:240px; height:100%;  padding: 0 100px 0 20px; background: url("../images/assets/shadow.png") repeat-y  right top;}
+#content{ position:relative;float:right; overflow:auto; width:600px; max-height:100%; min-width:30%; padding: 0 ; margin: -34px 0px 0 0; text-align:left; }
+
+#logo {cursor:pointer;  background-image:none ;}
+#kalpakchieva{color:#222;}
+#jobs{color:#222; }	
+
+#mainMenu { padding:140px 0 0 0 ;}
+#mainMenu ul  {list-style:none; cursor:pointer; }
+
+ul{ margin:0; padding:0;}
+#mainMenu ul lo { line-height:20px; }
+#mainMenu ul li { padding: 0 0 40px 0px;}
+#mainMenu ul li li {padding:7px 0 0 0 ;  }
+a{ text-decoration:none; color:#666;}
+/*#mainMenu ul li li a:hover{ background:#444; color:#eee;}*/
+
+.currentSubMenuItem { background:#444; color:#fff;}
+.subMenu{ background:#fff; color:#666;}
+
+#subTitleSt{ width:50%; padding: 200px 0 400px 0  ; }
+#projectsAllSt{ display:block;width:90%; padding:0;min-width:200px;}
+#projectsAllSt .pImg{ width:100%; margin: 0;}
+#projectsAllSt .projectHolder{ padding:40px 0 100px 0;}
+#projectsAllSt .infoAll{line-height: 20px;}
+#projectsAllSt .projectMeta a	 {text-decoration:underline;}
+#projectsAllSt .projectName{ line-height:20px; margin-top: 100px;color:#666;}
+#projectsAllSt .clientAll{ line-height: 30px;}
+#projectsAllSt .projectMeta { padding: 0 0 30px 0 ; }
+
+#projectSt { display :block; margin: 0 0 100px 0 ;width:90%;}
+#aboutSt {display:block; margin: 0 0 200px 0;width:90%;}
+
+
+.metadataLabel { color:#000;}
+
+#aboutSt .friendsText {width:100%;}
+#aboutSt{padding:40px 0 0 0;}
+#aboutSt .name { }
+#aboutSt .site{float:right;text-align:left; width:60%;}
+#aboutSt .site a{ text-decoration:none; color:#666;  }
+
+#contactsField{margin: 50px 0 0 0;}
+#contactsField a, .bioText a { color:#0000FF;}
+#friendsField{margin: 50px 0 100% 0;}
+
+
+
+
+#contactsSt{display:block;width:90%;}
+
+.box-shadow {
+  -moz-box-shadow: 6px 5px 9px #ddd; /* Firefox */
+  -webkit-box-shadow: 10px 10px 10px #ccc; /* Safari, Chrome */
+  box-shadow: 10px 10px 10px #ccc; /* CSS3 */
+}

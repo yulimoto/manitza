@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- projectId must be one word: for Example "AgnusDay", "Agnus", "ADay", "aday" and so on, but not "agnus day" 
+and must be unique
+ -->
+<root>
+	<mainMenu>
+
+		<projects>
+		
+			<project id="jiadeorganic" name="Organic cosmetcs packaging">
+				<thumb  name="Jiade Organic" src="images/thumbs/01-project-thumb.jpg" />
+				<images name="">
+					<image name="imageName01" src="images/images/01-a.jpg"/>
+					<image name="imageName01" src="images/images/01-b.jpg"/>
+					<image name="imageName01" src="images/images/01-c.jpg"/>
+				</images>
+				<info><![CDATA[This is a design for the packaging of an extremely natural organic face cream where the main accent falls on the picturesque pattern of drawn freezes representing the uniqueness of the product. The black background links the box with the contained black glass bottle inside and creates a luxury sensation.
+				Jiade Organic Cosmetics were our first clients and it was a real pleasure to create their first packaging!]]></info>
+				<client><![CDATA[<a href="http://www.jiadecosmetics.com" target="_new">Jiade Organic Cosmetics</a> – Vancoover, Canada]]></client>
+			</project>
+			
+			<project id="violaorganic" name="Packaging of herbal aromatic pouches">
+				<thumb name="Viola Series" src="images/thumbs/02-project-thumb.jpg" />
+				<images name="">
+					<image name="" src="images/images/02-a.jpg"/>
+					<image name="" src="images/images/02-b.jpg"/>
+					<image name="" src="images/images/02-c.jpg"/>
+					<image name="" src="images/images/02-d.jpg"/>
+					<image name="" src="images/images/02-e.jpg"/>
+				</images>
+				<info><![CDATA[These are functional boxes with an original opening to a beautiful detail form the product inside. To add to the handmade image, sense of history and home cosiness we chose a toned cardboard and light drawings of the herbs.]]></info>
+				<client><![CDATA[<a href="http://www.viola.bg" target="_new">Viola Organic</a> – Veliki Preslav, Bulgaria]]></client>
+			</project>
+				<project id="refan-toilet-water" name="Eau de toilette label series">
+					<thumb name="" src="images/thumbs/03-project-thumb.jpg" />
+					<images name="">
+						<image name="" src="images/images/03-a.jpg"/>
+						<image name="" src="images/images/03-b.jpg"/>
+						<image name="" src="images/images/03-c.jpg"/>
+					</images>
+					<info><![CDATA[Bright colours and a light drawing on small metal bottles – a pure scent from the nature for the young city people.]]></info>
+					<client><![CDATA[<a href="http://www.refan.com/" target="_new">Refan</a> – Plovdiv, Bulgaria]]></client>
+				</project>
+				
+				<project id="logos" name="Logo gallery">
+					<thumb name="" src="images/thumbs/04-project-thumb.jpg" />
+					<images name="">
+						<image name="" src="images/images/04-a.jpg"/>
+						<image name="" src="images/images/04-b.jpg"/>
+						<image name="" src="images/images/04-c.jpg"/>
+						<image name="" src="images/images/04-d.jpg"/>
+						<image name="" src="images/images/04-e.jpg"/>
+					</images>
+					<info><![CDATA[]]></info>
+					<client><![CDATA[]]></client>
+				</project>
+				
+				
+				<project id="sisakiss" name="Printed advertising materials for a small bakery">
+					<thumb name="" src="images/thumbs/05-project-thumb.jpg" />
+					<images name="">
+						<image name="" src="images/images/05-a.jpg"/>
+						<image name="" src="images/images/05-b.jpg"/>
+					</images>
+					<info><![CDATA[Anastasia‘s pastry is extremely beautiful as well as spreading pure joy, that is why she chose to have on her visit card a childish like drawing of a cake.]]></info>
+					<client><![CDATA[Anastasia Kisimova]]></client>
+				</project>
+				
+				
+				<project id="buisnesscards" name="Visit cards and catalogues">
+					<thumb name="" src="images/thumbs/06-project-thumb.jpg" />
+					<images name="">
+						<image name="" src="images/images/06-a.jpg"/>
+						<image name="" src="images/images/06-b.jpg"/>
+					</images>
+					<info><![CDATA[This is a gallery of selected visit cards and catalogues for various people and businesses. We aim to an individual approach in every project. Our designs combine the expression of what is most essential for our client with a high quality realization.]]></info>
+					<client></client>
+				</project>	
+				
+				<project id="posters" name="Posters">
+					<thumb name="" src="images/thumbs/07-project-thumb.jpg" />
+					<images name="">
+						<image name="" src="images/images/07-a.jpg"/>
+						<image name="" src="images/images/07-b.jpg"/>
+						<image name="" src="images/images/07-c.jpg"/>
+						<image name="" src="images/images/07-d.jpg"/>
+						<image name="" src="images/images/07-e.jpg"/>
+						<image name="" src="images/images/07-f.jpg"/>	
+						<image name="" src="images/images/07-g.jpg"/>
+						<image name="" src="images/images/07-h.jpg"/>
+						<image name="" src="images/images/07-i.jpg"/>
+					</images>
+					<info><![CDATA[This is a collection of various posters: advertising, promotional or theatre posters. In the process of creating a poster we feel free to follow our artistic explorations and keep the functionality at the same time. ]]></info>
+					<client><![CDATA[Frida Dance Company<br>
+					Lili Videnova – theater director, <br>
+					Jiade organic Cosmetics]]></client>
+				</project>	
+			
+				<project id="calendars" name="Calendars">
+					<thumb name="" src="images/thumbs/08-project-thumb.jpg" />
+					<images name="">
+						<image name="" src="images/images/08-a.jpg"/>
+						<image name="" src="images/images/08-b.jpg"/>
+						<image name="" src="images/images/08-c.jpg"/>
+						<image name="" src="images/images/08-d.jpg"/>
+						<image name="" src="images/images/08-e.jpg"/>
+						<image name="" src="images/images/08-f.jpg"/>
+						<image name="" src="images/images/08-g.jpg"/>
+						<image name="" src="images/images/08-h.jpg"/>
+					</images>
+					<info><![CDATA[Wall or table calendars – lets mark the passing time with beautiful pictures which bring joy to the eye and confirm our moments of success.]]></info>
+					<client></client>
+				</project>
+			
+		</projects>
+		
+		
+		
+		
+		<contacts>
+			<contact network="Address:"><![CDATA[MANITZA<br>4, Kniaz Alexander I Str.<br>4000 Plovdiv<br>Bulgaria <br><br>]]></contact>
+			<contact network="tel.: "><![CDATA[+359 32 63 86 24<br><br>]]></contact>
+			<contact network="email:"><![CDATA[<a href="mailto:designstudio@manitza.com">designstudio@manitza.com</a>]]></contact>
+			
+		</contacts>
+
+		<friends>
+			<friend site="http://therewereswallows.blogspot.com" picture="img.jpg">Лена</friend>
+			<friend site="http://therewereswallows.blogspot.com" picture="img.jpg">Гена</friend>
+			<friend site="http://therewereswallows.blogspot.com" picture="img.jpg">Пена</friend>
+		</friends>
+
+		<about>
+			<bio><![CDATA[Manitza Ltd is founded in 2008 in Plovdiv, Bulgaria. Packagind design, graphic and print design are part of our activities.
+
+				Our goal is to satisfy our clients‘ needs by creating  products of proven aesthetic quality. Our projects are functional and communicative as well as original and beautiful. We feel responsible to add to the overall beauty and harmony in the everyday life and to raise good taste.
+
+				The company designer is Elena Kalpakchieva, a graduate of the National Academy of Arts and with over 6 years of experience in the field of graphic design. Apar form her work as a designer, you can see her paintings here:
+				<a href="http://www.flickr.com/photos/78064372@N00/sets/72157606448052578/" target="_blank">flickr</a>
+				<br><br>
+				Our friends :
+				<br><br>
+
+				<a href="http://www.studio-lemon.com" target="_new">Studio Lemon</a> <br>
+				<a href="http://lightonlightoff.blogspot.com/" target="_blank">Light On</a>-<br>
+				<a href="http://www.punkt.bg/" target="_blank">Punkt</a><br>
+				<a href="http://www.2x2.bg/" target="_blank">2х2</a><br>
+				<a href="http://www.tafkov.com/" target="_blank">Tafkov Printing House</a><br>
+				<a href="http://www.zebrastyle.com/" target="_blank">Zebra</a><br>
+				<a href="http://www.stim-center.com/" target="_blank">Stim Center</a><br>
+				<a href="http://mosaic.bg/" target="_blank">Mosaic Training</a><br>
+				<a href="http://viola.bg/index.php" target="_blank">Viola</a><br>
+				<a href="http://www.refan.net/" target="_blank">Refan</a><br>
+				<a href="http://www.jiadecosmetics.com/" target="_blank">Jiade Organic Cosemtics</a><br>
+				]]>
+			</bio>
+		</about>
+	</mainMenu>
+</root>

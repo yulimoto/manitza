@@ -6,7 +6,7 @@ Pictures and logos are copyright of Elena Kalpakchieva. Code is free for everybo
 Hints. To change design type on html document: 
   - printux
   - developer
-  - degigner
+  - designer
   
 You can change content on fly too.
 

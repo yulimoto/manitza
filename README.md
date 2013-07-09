@@ -3,7 +3,7 @@ It is easy to replace view or change model and create another presentation site,
 
 Pictures and logos are copyright of Elena Kalpakchieva. Code is free for everybody. 
 
-Hints. To change design type on html document: 
+Hints. To change design, type on html document: 
   - printux
   - developer
   - designer

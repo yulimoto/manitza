@@ -1,6 +1,7 @@
 THIS PROJECT IS DEAD.  THE CODE IS KEPT HERE ONLY FOR HISTORIC PURPOSES.
 
 
+![](manitza.gif)
 
 javascript experiment :) 
 
